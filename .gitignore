@@ -1,0 +1,21 @@
+# Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Django
+db.sqlite3
+*.log
+
+# Docker
+# (compose files ARE committed; nothing to ignore here)
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
